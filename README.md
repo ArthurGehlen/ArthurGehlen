@@ -21,7 +21,9 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 
 ## 📈 GitHub Stats
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGehlen&show_icons=true&theme=radical)
+| GitHub Stats | Most Used Languages |
+|--------------|---------------------|
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurGehlen&show_icons=true&hide=prs&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGehlen&layout=compact&theme=tokyonight) |
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just have a chat.
 

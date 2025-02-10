@@ -23,11 +23,8 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurGehlen&show_icons=true&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurGehlen&theme=tokyonight"/>
 </div>
-
-<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGehlen&layout=compact&theme=tokyonight"/>

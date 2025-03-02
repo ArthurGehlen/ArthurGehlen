@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on various web development projects and exploring new technologies.
-- 🌱 I’m always learning and improving my skills in JavaScript and React.
+- 🌱 I’m always learning and improving my skills in JavaScript, React and Dart.
 - 👯 I’m looking to collaborate on open-source projects that make a positive impact.
 - 💬 Ask me about web development!
 

@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 
 ## 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=dart,html,css,scss,js,react,git,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,html,css,scss,js,react,vite,git,vscode,figma)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 

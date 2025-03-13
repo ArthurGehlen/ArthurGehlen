@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a web development enthusiast with an interest in software development. Here's a little bit about me:
 
+![GIF](https://github.com/ArthurGehlen/ArthurGehlen/raw/main/gif.gif)
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on various web development projects and exploring new technologies.
@@ -16,12 +18,10 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurGehlen&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurGehlen&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGehlen&layout=normal&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurGehlen&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurGehlen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurGehlen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArthurGehlen&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <br>

@@ -2,7 +2,10 @@
 
 Welcome to my GitHub profile! I'm a web development enthusiast with an interest in software development. Here's a little bit about me:
 
-![GIF](https://github.com/ArthurGehlen/ArthurGehlen/raw/main/gif.gif)
+<div align='center'>
+  <img src='https://github.com/ArthurGehlen/ArthurGehlen/raw/main/gif.gif' />
+  <img src='https://github.com/ArthurGehlen/ArthurGehlen/raw/main/gif2.gif' height='201rem' />
+</div>
 
 ## 🚀 About Me
 

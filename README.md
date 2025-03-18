@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 <div align='center'>
   <img src='https://github.com/ArthurGehlen/ArthurGehlen/raw/main/gif.gif' />
   <img src='https://github.com/ArthurGehlen/ArthurGehlen/raw/main/gif2.gif' height='201rem' />
+  <img src='https://github.com/ArthurGehlen/ArthurGehlen/raw/main/9nubfn.gif' height='200rem' />
 </div>
+
 
 ## 🚀 About Me
 
@@ -16,7 +18,7 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 
 ## 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=dart,html,css,scss,js,react,vite,git,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,dart,html,css,scss,js,react,vite,git,vscode,figma)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 

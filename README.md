@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 <div align='center'>
   <img src='https://github.com/ArthurGehlen/ArthurGehlen/raw/main/gif.gif' height='200rem' />
   <img src='https://github.com/ArthurGehlen/ArthurGehlen/raw/main/gif2.gif' height='200rem' />
-  <img src='https://github.com/ArthurGehlen/ArthurGehlen/raw/main/9nubfn.gif' height='200rem' />
   <img src='https://github.com/ArthurGehlen/ArthurGehlen/raw/main/gif3.gif' height='200rem' />
 </div>
 

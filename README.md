@@ -20,6 +20,11 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 
 [![My Skills](https://skillicons.dev/icons?i=py,dart,html,css,scss,js,react,vite,git,vscode,figma)](https://skillicons.dev)
 
+## 🎤 What I'm Listening To
+
+🎧 [So Very Hard to Go](https://www.youtube.com/watch?v=cbyKxiVvpaE) - Tower of Power
+
+
 ## 📈 GitHub Stats
 
 <div align="center">

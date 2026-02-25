@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 
 ## 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,dart,html,css,scss,js,nodejs,electron,react,express,vite,npm,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,dart,html,css,scss,js,nodejs,electron,nextjs,react,express,vite,npm,git)](https://skillicons.dev)
 
 ## 🎤 What I'm Listening To
 

@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a web development enthusiast with an interest 
 
 ## 🎤 What I'm Listening To
 
-🎧 [So Very Hard to Go](https://www.youtube.com/watch?v=cbyKxiVvpaE) - Tower of Power
+🎧 [My Music Player :)](https://arthurgehlen.github.io/audioPlayer/) 
 
 
 ## 📈 GitHub Stats
